@@ -32,3 +32,6 @@
   License: MIT 
 
   https://opensource.org/licenses/MIT
+
+  * Link to Walkthrough Video: https://www.youtube.com/watch?v=jDQ86fqnWZ4
+  
