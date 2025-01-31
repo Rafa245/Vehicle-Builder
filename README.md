@@ -2,8 +2,6 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   by Rafael Yuri Guerra
   ## Table of Contents
-- [Vehicle Builder](#vehicle-builder)
-  - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Requirements](#requirements)
   - [Usage](#usage)
